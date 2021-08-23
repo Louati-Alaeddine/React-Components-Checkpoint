@@ -1,4 +1,4 @@
-# React Exercise
+# React Components Checkpoint
 
 ## Complete the application
 We're going to create an application for a pet adoption agency.
